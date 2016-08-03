@@ -1,0 +1,2 @@
+# EE677-VLSI-CAD
+Algorithms and data structures: efficient representation of graphs; Elementary graph algorithms involving bfs and dfs trees, such as finding connected and 2- connected components of a graph, the minimum spanning tree, shortest path between a pair of vertices in a graph; Data structures such as stacks, linked lists and queues, binary trees and heaps. Time and space complexity of algorithms.
