@@ -1,0 +1,8 @@
+YOUR PROGRAMMING TASK / assignment is as follows :
+Write python code to implement the following features
+Provide examples to illustrate each of the following
+
+1. Provide similar facilities for binary operator AND
+2. Provide similar facilities for unary operator NOT
+3. Provide similar facility for binary operator NAND
+4. Improve the efficiency by terminating the recursion early, when one of the functions is the constant 0 or the constant 1 function
